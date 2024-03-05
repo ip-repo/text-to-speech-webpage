@@ -23,4 +23,5 @@ For example, in Edge browser the web tts api can access a wide range of voices f
 You can also explore other text to speech projects on this github:
 
 <a href="https://github.com/ip-repo/conversation-maker/blob/main/README.md">PySide6 Conversation Maker</a>
+
 <a href="https://github.com/ip-repo/guides/blob/main/example-tts-pyside6/example-tts-pyside6.md">Different pyside6 widgets with different tts engines</a>
