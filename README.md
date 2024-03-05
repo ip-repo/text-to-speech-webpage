@@ -19,3 +19,8 @@ Many of the additional voices that are available online are provided through clo
 For example, in Edge browser the web tts api can access a wide range of voices from Microsoft's servers when you are online. However, when offline its uses only the voices installed locally. 
 
 <a href="https://developer.mozilla.org/en-US/docs/Web/API/Web_Speech_API/Using_the_Web_Speech_API">More on Web Speech API</a>
+
+You can also explore other text to speech projects on this github:
+
+<a href="https://github.com/ip-repo/conversation-maker/blob/main/README.md">PySide6 Conversation Maker</a>
+<a href="https://github.com/ip-repo/guides/blob/main/example-tts-pyside6/example-tts-pyside6.md">Different pyside6 widgets with different tts engines</a>
