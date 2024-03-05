@@ -2,6 +2,7 @@ var synth = window.speechSynthesis;
 var voices = [];
 
   function populateVoiceList() {
+    if(voices.length > 0) return;
     voices = synth.getVoices();
     var select = document.getElementById("voiceSelect");
     for(var i = 0; i < voices.length ; i++) {
