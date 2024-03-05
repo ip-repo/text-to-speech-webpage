@@ -5,7 +5,7 @@
 
 This webpage allow user to type text and click on a button to speak it.
 
-This webpage uses the Web Speech API's text-to-speech functionality but the availability of different voices and languages can vary based on several factors, including the protocol used to access the webpage and the browser’s implementation of the API.
+This webpage uses the Web Speech API's text-to-speech and the availability of different voices and languages can vary based on several factors, including the protocol used to access the webpage and the browser’s implementation of the API.
 
 The implemnation of the Web Speech API can differ between browsers and that can effect the functionality and the amount of voices that the browser offer.
 
